@@ -4,5 +4,5 @@ https://forum.kerbalspaceprogram.com/topic/207768-112-niakos-kopernicus-utilitie
 Kopernicus Expansion Continued-er (bundled) is licensed under the GNU General Public License.
 https://forum.kerbalspaceprogram.com/topic/195844-110-112-kopernicus-expansion-continued-er/#comment-3825607
 
-Parallax surface and various scatter textures created using Moss 002, Ground 054, Rock 029, Rock 030, Rocks 011, Rock 022, Rock 018, Bark 001, Foliage 005, Leaf 002, and LeafSet 014 from ambientCG.com,
+Parallax surface and various scatter textures created using Moss 002, Ground 054, Rock 029, Rock 030, Rocks 011, Rock 022, Rock 018, Bark 001, Foliage 005, and Leaf 002 from ambientCG.com,
 licensed under the Creative Commons CC0 1.0 Universal License.

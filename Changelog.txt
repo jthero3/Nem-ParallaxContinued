@@ -1,0 +1,7 @@
+v1.1.0
+Updated Nem's surface features to remove the obvious features lifted straight off of Mars, and replaced them with newer, more original ones.
+Valles Valentus has notably moved, grown even longer, and gained a huge river.
+
+v1.1.1
+Desaturated the color of the flora on Nem a fair bit.
+Removed the unused Career folder.

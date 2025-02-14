@@ -38,6 +38,10 @@ All credit for Firefly goes to  MirageDev for this amazing mod.
 
 ## Scaled Space:
 
+![screenshot21](https://github.com/user-attachments/assets/d41e8198-185e-4ab5-b669-a1396f8f2da8)
+
+![screenshot20](https://github.com/user-attachments/assets/f21f1ed2-67d2-486e-bc75-7d8ab32f3355)
+
 
 # Requirements
 

@@ -35,6 +35,10 @@ All credit for Firefly goes to  MirageDev for this amazing mod.
 
 # Gallery
 
+## Firefly:
+
+![screenshot34](https://github.com/user-attachments/assets/bedbc057-5022-446d-a5f1-0f68cfc00b7f)
+
 
 ## Scaled Space:
 

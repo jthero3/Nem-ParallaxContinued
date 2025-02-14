@@ -1,4 +1,4 @@
-# QuackPack-ParallaxContinued
+# Nem-ParallaxContinued
 
 This mod adds Parallax Continued Support to Lithobraker's amazing [Nem Mod](https://github.com/Lithobraker/Nem). Nem adds a binary partner to Eve, which offers an amazing new desert world to explore.
 
